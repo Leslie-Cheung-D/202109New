@@ -1,8 +1,4 @@
-20210922 new start
-20210922 new start
+git add .
+git commit -m "注释"
+git push
 
-20210922 new start
-20210922 new start
-20210922 new start
-20210922 new start
-20210922 new start
